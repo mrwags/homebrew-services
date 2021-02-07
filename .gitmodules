@@ -1,0 +1,3 @@
+[submodule "homebrew-services/cmd/"]
+	path = homebrew-services/cmd/
+	url = git@github.com:Homebrew/homebrew-services.git
